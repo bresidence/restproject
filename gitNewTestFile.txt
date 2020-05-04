@@ -1,0 +1,1 @@
+This file is created from local remote master repo. And now it will be moved to remote repo
